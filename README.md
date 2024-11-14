@@ -1,15 +1,10 @@
 # 💫 Summary:
 🤝 hello world <br>
 🌱 I'm Aviv Elany, Fullstack web developer (React.js&Node.js)<br>
-
 👨‍💼Experience as a team leader of diverse employees with diverse roles.<br>
-
 🔭A sharp eye for details, the ability to solve complex problems and the ability to perform under pressure and with a broad systemic vision.<br>
-
 💯 Has excellent human relations. Creative, with thinking outside the box.<br>
-
 💻 Growing experience and expertise in Node.js and React.js development, combined with a background in maintaining high standards while focusing on creating secure, efficient and user-friendly applications.<br>
-
 🧸 I am honored to present to you some of my current projects<br>
 ⚡ These days we are working on a new MERN project! There is something to wait for<br>
 
