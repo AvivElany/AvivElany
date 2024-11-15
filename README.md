@@ -4,7 +4,7 @@
 👨‍💼Experience as a team leader of diverse employees with diverse roles.<br>
 🔭A sharp eye for details, with the ability to solve complex problems and the perform under pressure and with a broad systemic vision<br>
 💯 Has excellent human relations. Creative, with thinking outside the box.<br>
-💻 Growing experience and expertise in Node.js and React.js development, combined with a background in maintaining high standards while focusing on creating secure, efficient and user-friendly applications<br<br>
+💻 Growing experience and expertise in Node.js and React.js development, combined with a background in maintaining high standards while focusing on creating secure, efficient and user-friendly applications<br><br>
 🧸I am honored to present to you some of my current projects<br>
 ⚡These days I'm working on a new MERN project! There is something to wait for<br>
 
